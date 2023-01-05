@@ -1,3 +1,1 @@
-# projectJavaEE
 # secondProjectJavaEE
-# ProjectSecondJavaEE
